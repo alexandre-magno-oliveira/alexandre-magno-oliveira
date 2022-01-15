@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alexandre Magno Galieta de Oliveira
+### Olá! Eu sou o Alexandre Magno 
     Engenheiro Mecânico, Mestre em Engenharia de Produção com Ênfase em Economia e Finanças
     Estudante de Data Science
 
