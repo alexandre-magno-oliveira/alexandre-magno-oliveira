@@ -1,6 +1,6 @@
-### Olá! Eu sou o Alexandre Magno 
+### Olá! Eu sou o Alexandre Magno 🖐
     
-    Estudante de Data Science
+    Estudante de Data Science 💻
 
 <div align="left">
 <a href="https://beacons.ai.com/alexandre-magno-oliveira">
