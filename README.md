@@ -1,6 +1,6 @@
 
 <h3 align='center'>
-Olá!😀 Eu sou o Alexandre Magno 👨‍💻
+Olá!👋 Eu sou o Alexandre Magno 👨‍💻
 
         
 Estudante de Data Science 💻
