@@ -1,11 +1,11 @@
-### Olá! Eu sou o Alexandre Magno 🖐
+### Olá! Eu sou o Alexandre Magno ⚡📐😀
     
     Estudante de Data Science 💻
 
 <div align="left">
 <a href="https://beacons.ai.com/alexandre-magno-oliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandre-magno-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
+</div>
    
 <div
  
