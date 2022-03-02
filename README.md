@@ -4,12 +4,12 @@ Olá!👋 Eu sou o Alexandre Magno 👨‍💻
 
         
 Estudante de Data Science 💻 
-        Engenheiro Mecânico - Mestre em Engenharia de Produção⚡
+Engenheiro Mecânico - Mestre em Engenharia de Produção⚡
       
 </h3>
 
 <p align="center">
-    Brasília, Distrito Federal </p>
+        <strong>Brasília, Distrito Federal </strong></p>
  <p align='center'>
 <a href= "https://www.linkedin.com/in/alexandre-magno-galieta-de-oliveira-ba3b1264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:alexandre.galieta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
