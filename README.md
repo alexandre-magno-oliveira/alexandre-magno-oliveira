@@ -3,8 +3,8 @@
 Olá!👋 Eu sou o Alexandre Magno 👨‍💻
 
         
-Estudante de Data Science 💻 
-Engenheiro Mecânico - Mestre em Engenharia de Produção⚡
+Estudante de Data Science 💻
+⚡
       
 </h3>
 
