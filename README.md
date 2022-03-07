@@ -2,8 +2,8 @@
 <h3 align='center'>
 Olá!👋 Eu sou o Alexandre Magno 👨‍💻
 <br/>     
-Estudante de Data Science 💻
-⚡
+Estudante de Data Science 💻⚡
+
       
 </h3>
 
