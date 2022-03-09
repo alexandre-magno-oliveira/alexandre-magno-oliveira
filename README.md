@@ -45,5 +45,19 @@ Engineer and Data Science Student💻⚡
  <a href = "https://plotly.com" target="_blank">       
 <img  src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>  
    
-  
+</div>
+<div>     
+<details>
+  <summary>📃 Resume</summary>
+<p>• Executivo com mais de 20 anos de experiência no setor educacional, liderando estrutura corporativa, diretores de unidades, coordenadores pedagógicos, orientadores educacionais, diretores, gerentes e coordenadores das áreas administrativa, financeira, TI, comercial e de marketing em empresas nacionais e multinacionais de grande porte.</p>
+<p>• Forte experiência na condução e monitoramento de processos orçamentários (forecast/business plan), análise e reporte à Matriz, incluindo riscos e oportunidades associados ao negócio.</p>
+<p>• Experiência na formação, capacitação e gerenciamento de equipes multidisciplinares de alta performance.</p>
+<p>• Participação efetiva na elaboração do planejamento estratégico das diversas áreas da empresa, com posterior acompanhamento e revisões periódicas das metas e resultados estabelecidos.</p>
+<p>• Supervisão das ações da gerência/equipe de M&A.</p>
+<p>• Prospecção de novos clientes e nichos de mercado na área educacional.</p>
+<p>• Implantação de diversos projetos de ensino, incluindo a criação e lançamento de novos produtos e oportunidades de negócios, mantendo estreito relacionamento com os vários níveis do poder público e privado para garantir a execução dos mesmos. </p>
+<p>• Experiência docente (paralela à experiência executiva), nos ensinos básico, superior e pós-graduação, como professor de matemática, física, administração financeira e orçamentária e mercado de capitais.</p>
+<p>• Inglês Fluente.</p>
+      
+</details>
 </div>
