@@ -57,7 +57,7 @@ Engineer and Data Science Student💻⚡
 <p>• Prospecção de novos clientes e nichos de mercado na área educacional.</p>
 <p>• Implantação de diversos projetos de ensino, incluindo a criação e lançamento de novos produtos e oportunidades de negócios, mantendo estreito relacionamento com os vários níveis do poder público e privado para garantir a execução dos mesmos. </p>
 <p>• Experiência docente (paralela à experiência executiva), nos ensinos básico, superior e pós-graduação, como professor de matemática, física, administração financeira e orçamentária e mercado de capitais.</p>
-<p>• Inglês Fluente.</p>
+
       
 </details>
 </div>
