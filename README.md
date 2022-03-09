@@ -48,7 +48,7 @@ Engineer and Data Science Student💻⚡
 </div>
 <div>     
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 Resume</summary><br/>
 <p>• Executivo com mais de 20 anos de experiência no setor educacional, liderando estrutura corporativa, diretores de unidades, coordenadores pedagógicos, orientadores educacionais, diretores, gerentes e coordenadores das áreas administrativa, financeira, TI, comercial e de marketing em empresas nacionais e multinacionais de grande porte.</p>
 <p>• Forte experiência na condução e monitoramento de processos orçamentários (forecast/business plan), análise e reporte à Matriz, incluindo riscos e oportunidades associados ao negócio.</p>
 <p>• Experiência na formação, capacitação e gerenciamento de equipes multidisciplinares de alta performance.</p>
